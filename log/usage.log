@@ -1,0 +1,356 @@
+2023-12-01 08:30:10 - [32minfo[39m: Reading configs from D:\MotorMouthAutomation\motormouth-automated-testing\android\browserstack.yml
+2023-12-01 08:30:11 - [32minfo[39m: parallelsPerPlatform was not defined and has been set to 1 (Default)
+2023-12-01 08:30:12 - [32minfo[39m: Using app: ./MotorMouth_1.4.3.stage.apk
+2023-12-01 08:30:12 - [32minfo[39m: Uploading app ./MotorMouth_1.4.3.stage.apk  to browserstack
+2023-12-01 08:30:22 - [32minfo[39m: App upload completed: {"app_url":"bs://8dbcd19e42f993b8985ae47c607866b2f0129968"}
+2023-12-01 08:30:25 - [32minfo[39m: Configuring to run tests on BrowserStack
+2023-12-01 08:35:08 - [32minfo[39m: View build on BrowserStack dashboard: https://app-automate.browserstack.com/dashboard/v2/builds/0ed6e2b020ddaa71b34cc279bf308ecf7a71030e
+2023-12-05 04:51:19 - [32minfo[39m: Reading configs from D:\MotorMouthAutomation\motormouth-automated-testing\android\browserstack.yml
+2023-12-05 04:51:19 - [32minfo[39m: parallelsPerPlatform was not defined and has been set to 1 (Default)
+2023-12-05 04:51:20 - [32minfo[39m: Using app: ./MotorMouth_1.4.3.stage.apk
+2023-12-05 04:51:20 - [32minfo[39m: Uploading app ./MotorMouth_1.4.3.stage.apk  to browserstack
+2023-12-05 04:51:20 - [32minfo[39m: App already uploaded with md5 Hash Id: bs://8dbcd19e42f993b8985ae47c607866b2f0129968
+2023-12-05 04:51:24 - [32minfo[39m: Configuring to run tests on BrowserStack
+2023-12-05 04:52:59 - [32minfo[39m: View build on BrowserStack dashboard: https://app-automate.browserstack.com/dashboard/v2/builds/ebbc346b1077608a6d601faeaa461d8d2ba70371
+2023-12-05 04:54:16 - [32minfo[39m: Reading configs from D:\MotorMouthAutomation\motormouth-automated-testing\android\browserstack.yml
+2023-12-05 04:54:16 - [32minfo[39m: parallelsPerPlatform was not defined and has been set to 1 (Default)
+2023-12-05 04:54:17 - [32minfo[39m: Using app: ./MotorMouth_1.4.3.stage.apk
+2023-12-05 04:54:17 - [32minfo[39m: Uploading app ./MotorMouth_1.4.3.stage.apk  to browserstack
+2023-12-05 04:54:17 - [32minfo[39m: App already uploaded with md5 Hash Id: bs://8dbcd19e42f993b8985ae47c607866b2f0129968
+2023-12-05 04:54:21 - [32minfo[39m: Configuring to run tests on BrowserStack
+2023-12-05 04:55:35 - [32minfo[39m: View build on BrowserStack dashboard: https://app-automate.browserstack.com/dashboard/v2/builds/a149316ba330ab62ae101712f834f601ca3cf8ea
+2023-12-05 04:58:27 - [32minfo[39m: Reading configs from D:\MotorMouthAutomation\motormouth-automated-testing\android\browserstack.yml
+2023-12-05 04:58:27 - [32minfo[39m: parallelsPerPlatform was not defined and has been set to 1 (Default)
+2023-12-05 04:58:28 - [32minfo[39m: Using app: ./MotorMouth_1.4.3.stage.apk
+2023-12-05 04:58:28 - [32minfo[39m: Uploading app ./MotorMouth_1.4.3.stage.apk  to browserstack
+2023-12-05 04:58:28 - [32minfo[39m: App already uploaded with md5 Hash Id: bs://8dbcd19e42f993b8985ae47c607866b2f0129968
+2023-12-05 04:58:31 - [32minfo[39m: Configuring to run tests on BrowserStack
+2023-12-05 04:59:45 - [32minfo[39m: View build on BrowserStack dashboard: https://app-automate.browserstack.com/dashboard/v2/builds/6ea1a479ba1832fd8a9cd86ea05c1e186a2b6d3f
+2023-12-08 10:38:55 - [32minfo[39m: Reading configs from D:\MotorMouthAutomation\motormouth-automated-testing\android\browserstack.yml
+2023-12-08 10:38:55 - [32minfo[39m: parallelsPerPlatform was not defined and has been set to 1 (Default)
+2023-12-08 10:38:57 - [32minfo[39m: Using app: ./MotorMouth_1.4.3.stage.apk
+2023-12-08 10:38:57 - [32minfo[39m: Uploading app ./MotorMouth_1.4.3.stage.apk  to browserstack
+2023-12-08 10:38:57 - [32minfo[39m: App already uploaded with md5 Hash Id: bs://8dbcd19e42f993b8985ae47c607866b2f0129968
+2023-12-08 10:39:00 - [32minfo[39m: Configuring to run tests on BrowserStack
+2023-12-08 10:45:30 - [32minfo[39m: View build on BrowserStack dashboard: https://app-automate.browserstack.com/dashboard/v2/builds/d0cc30153bcf22077b7e61b101e6774970481fc7
+2025-01-24 22:52:07 - [32minfo[39m: Reading configs from C:\Users\HP\Downloads\motormouth-automated-testing\android\browserstack.yml
+2025-01-24 22:52:07 - [32minfo[39m: parallelsPerPlatform was not defined and has been set to 1 (Default)
+2025-01-24 22:52:08 - [32minfo[39m: Using app: ./Swagger.apk
+2025-01-24 22:52:08 - [32minfo[39m: Uploading app ./Swagger.apk  to browserstack
+2025-01-24 22:52:20 - [32minfo[39m: App upload completed: {"app_url":"bs://77c65f9692af938872e2a4560bd592afd4d44cdc"}
+2025-01-24 22:52:25 - [32minfo[39m: Configuring to run tests on BrowserStack
+2025-01-24 22:52:59 - [32minfo[39m: View build on BrowserStack dashboard: https://app-automate.browserstack.com/dashboard/v2/builds/15d857986d129fb2ecc82f6130b6ac5bf7d4055c
+2025-01-24 23:49:00 - [32minfo[39m: Reading configs from C:\Users\HP\Downloads\motormouth-automated-testing\android\browserstack.yml
+2025-01-24 23:49:00 - [32minfo[39m: parallelsPerPlatform was not defined and has been set to 1 (Default)
+2025-01-24 23:49:01 - [32minfo[39m: Using app: ./Swagger.apk
+2025-01-24 23:49:01 - [32minfo[39m: Uploading app ./Swagger.apk  to browserstack
+2025-01-24 23:49:01 - [32minfo[39m: App already uploaded with md5 Hash Id: bs://77c65f9692af938872e2a4560bd592afd4d44cdc
+2025-01-24 23:49:05 - [32minfo[39m: Configuring to run tests on BrowserStack
+2025-01-24 23:49:37 - [32minfo[39m: View build on BrowserStack dashboard: https://app-automate.browserstack.com/dashboard/v2/builds/8320fe6cb166d03f51ad52bee6381d96ea07f045
+2025-01-24 23:59:25 - [32minfo[39m: Reading configs from C:\Users\HP\Downloads\motormouth-automated-testing\android\browserstack.yml
+2025-01-24 23:59:25 - [32minfo[39m: parallelsPerPlatform was not defined and has been set to 1 (Default)
+2025-01-24 23:59:27 - [32minfo[39m: Using app: ./Swagger.apk
+2025-01-24 23:59:27 - [32minfo[39m: Uploading app ./Swagger.apk  to browserstack
+2025-01-24 23:59:27 - [32minfo[39m: App already uploaded with md5 Hash Id: bs://77c65f9692af938872e2a4560bd592afd4d44cdc
+2025-01-24 23:59:31 - [32minfo[39m: Configuring to run tests on BrowserStack
+2025-01-25 00:00:02 - [32minfo[39m: View build on BrowserStack dashboard: https://app-automate.browserstack.com/dashboard/v2/builds/826b3e63221c9b1a63909c26aaa29b69ad624333
+2025-01-25 00:08:52 - [32minfo[39m: Reading configs from C:\Users\HP\Downloads\motormouth-automated-testing\android\browserstack.yml
+2025-01-25 00:08:52 - [32minfo[39m: parallelsPerPlatform was not defined and has been set to 1 (Default)
+2025-01-25 00:08:53 - [32minfo[39m: Using app: ./Swagger.apk
+2025-01-25 00:08:53 - [32minfo[39m: Uploading app ./Swagger.apk  to browserstack
+2025-01-25 00:08:53 - [32minfo[39m: App already uploaded with md5 Hash Id: bs://77c65f9692af938872e2a4560bd592afd4d44cdc
+2025-01-25 00:08:58 - [32minfo[39m: Configuring to run tests on BrowserStack
+2025-01-25 00:09:29 - [32minfo[39m: View build on BrowserStack dashboard: https://app-automate.browserstack.com/dashboard/v2/builds/788f71591fc4a73783e109676bbc37ffacb984ec
+2025-01-25 00:59:11 - [32minfo[39m: Reading configs from C:\Users\HP\Downloads\motormouth-automated-testing\android\browserstack.yml
+2025-01-25 00:59:11 - [32minfo[39m: parallelsPerPlatform was not defined and has been set to 1 (Default)
+2025-01-25 00:59:13 - [32minfo[39m: Using app: ./Swagger.apk
+2025-01-25 00:59:13 - [32minfo[39m: Uploading app ./Swagger.apk  to browserstack
+2025-01-25 00:59:13 - [32minfo[39m: App already uploaded with md5 Hash Id: bs://77c65f9692af938872e2a4560bd592afd4d44cdc
+2025-01-25 00:59:17 - [32minfo[39m: Configuring to run tests on BrowserStack
+2025-01-25 00:59:51 - [32minfo[39m: View build on BrowserStack dashboard: https://app-automate.browserstack.com/dashboard/v2/builds/804fbaf90a244b22641efab3da99c43ca84ad901
+2025-01-25 01:03:51 - [32minfo[39m: Reading configs from C:\Users\HP\Downloads\motormouth-automated-testing\android\browserstack.yml
+2025-01-25 01:03:51 - [32minfo[39m: parallelsPerPlatform was not defined and has been set to 1 (Default)
+2025-01-25 01:03:52 - [32minfo[39m: Using app: ./Swagger.apk
+2025-01-25 01:03:52 - [32minfo[39m: Uploading app ./Swagger.apk  to browserstack
+2025-01-25 01:03:52 - [32minfo[39m: App already uploaded with md5 Hash Id: bs://77c65f9692af938872e2a4560bd592afd4d44cdc
+2025-01-25 01:03:56 - [32minfo[39m: Configuring to run tests on BrowserStack
+2025-01-25 01:04:33 - [32minfo[39m: View build on BrowserStack dashboard: https://app-automate.browserstack.com/dashboard/v2/builds/ff963328d175b833fe177c28547a498db9437152
+2025-01-25 01:06:29 - [32minfo[39m: Reading configs from C:\Users\HP\Downloads\motormouth-automated-testing\android\browserstack.yml
+2025-01-25 01:06:29 - [32minfo[39m: parallelsPerPlatform was not defined and has been set to 1 (Default)
+2025-01-25 01:06:30 - [32minfo[39m: Using app: ./Swagger.apk
+2025-01-25 01:06:30 - [32minfo[39m: Uploading app ./Swagger.apk  to browserstack
+2025-01-25 01:06:30 - [32minfo[39m: App already uploaded with md5 Hash Id: bs://77c65f9692af938872e2a4560bd592afd4d44cdc
+2025-01-25 01:06:33 - [32minfo[39m: Configuring to run tests on BrowserStack
+2025-01-25 01:08:28 - [32minfo[39m: Reading configs from C:\Users\HP\Downloads\motormouth-automated-testing\android\browserstack.yml
+2025-01-25 01:08:28 - [32minfo[39m: parallelsPerPlatform was not defined and has been set to 1 (Default)
+2025-01-25 01:08:29 - [32minfo[39m: Using app: ./Swagger.apk
+2025-01-25 01:08:29 - [32minfo[39m: Uploading app ./Swagger.apk  to browserstack
+2025-01-25 01:08:29 - [32minfo[39m: App already uploaded with md5 Hash Id: bs://77c65f9692af938872e2a4560bd592afd4d44cdc
+2025-01-25 01:08:33 - [32minfo[39m: Configuring to run tests on BrowserStack
+2025-01-25 01:10:29 - [32minfo[39m: View build on BrowserStack dashboard: https://app-automate.browserstack.com/dashboard/v2/builds/6a9a963f3983b35d2fa8b0ad7928a786314ca28c
+2025-01-25 01:40:11 - [32minfo[39m: Reading configs from C:\Users\HP\Downloads\motormouth-automated-testing\android\browserstack.yml
+2025-01-25 01:40:11 - [32minfo[39m: parallelsPerPlatform was not defined and has been set to 1 (Default)
+2025-01-25 01:40:12 - [32minfo[39m: Using app: ./Swagger.apk
+2025-01-25 01:40:12 - [32minfo[39m: Uploading app ./Swagger.apk  to browserstack
+2025-01-25 01:40:12 - [32minfo[39m: App already uploaded with md5 Hash Id: bs://77c65f9692af938872e2a4560bd592afd4d44cdc
+2025-01-25 01:40:16 - [32minfo[39m: Configuring to run tests on BrowserStack
+2025-01-25 01:40:56 - [32minfo[39m: View build on BrowserStack dashboard: https://app-automate.browserstack.com/dashboard/v2/builds/5bed133be23f4acf8ee3c51a0401be45fa434ba0
+2025-01-25 01:42:03 - [32minfo[39m: Reading configs from C:\Users\HP\Downloads\motormouth-automated-testing\android\browserstack.yml
+2025-01-25 01:42:03 - [32minfo[39m: parallelsPerPlatform was not defined and has been set to 1 (Default)
+2025-01-25 01:42:05 - [32minfo[39m: Using app: ./Swagger.apk
+2025-01-25 01:42:05 - [32minfo[39m: Uploading app ./Swagger.apk  to browserstack
+2025-01-25 01:42:05 - [32minfo[39m: App already uploaded with md5 Hash Id: bs://77c65f9692af938872e2a4560bd592afd4d44cdc
+2025-01-25 01:42:09 - [32minfo[39m: Configuring to run tests on BrowserStack
+2025-01-25 01:44:17 - [32minfo[39m: Reading configs from C:\Users\HP\Downloads\motormouth-automated-testing\android\browserstack.yml
+2025-01-25 01:44:17 - [32minfo[39m: parallelsPerPlatform was not defined and has been set to 1 (Default)
+2025-01-25 01:44:18 - [32minfo[39m: Using app: ./Swagger.apk
+2025-01-25 01:44:18 - [32minfo[39m: Uploading app ./Swagger.apk  to browserstack
+2025-01-25 01:44:18 - [32minfo[39m: App already uploaded with md5 Hash Id: bs://77c65f9692af938872e2a4560bd592afd4d44cdc
+2025-01-25 01:44:22 - [32minfo[39m: Configuring to run tests on BrowserStack
+2025-01-25 01:44:53 - [32minfo[39m: Reading configs from C:\Users\HP\Downloads\motormouth-automated-testing\android\browserstack.yml
+2025-01-25 01:44:53 - [32minfo[39m: parallelsPerPlatform was not defined and has been set to 1 (Default)
+2025-01-25 01:44:54 - [32minfo[39m: Using app: ./Swagger.apk
+2025-01-25 01:44:54 - [32minfo[39m: Uploading app ./Swagger.apk  to browserstack
+2025-01-25 01:44:54 - [32minfo[39m: App already uploaded with md5 Hash Id: bs://77c65f9692af938872e2a4560bd592afd4d44cdc
+2025-01-25 01:44:57 - [32minfo[39m: Configuring to run tests on BrowserStack
+2025-01-27 21:40:16 - [32minfo[39m: Reading configs from C:\Users\HP\Downloads\motormouth-automated-testing\android\browserstack.yml
+2025-01-27 21:40:16 - [32minfo[39m: parallelsPerPlatform was not defined and has been set to 1 (Default)
+2025-01-27 21:40:17 - [32minfo[39m: Using app: ./Swagger.apk
+2025-01-27 21:40:17 - [32minfo[39m: Uploading app ./Swagger.apk  to browserstack
+2025-01-27 21:40:17 - [32minfo[39m: App already uploaded with md5 Hash Id: bs://77c65f9692af938872e2a4560bd592afd4d44cdc
+2025-01-27 21:40:22 - [32minfo[39m: Configuring to run tests on BrowserStack
+2025-01-27 21:43:31 - [32minfo[39m: Reading configs from C:\Users\HP\Downloads\motormouth-automated-testing\android\browserstack.yml
+2025-01-27 21:43:31 - [32minfo[39m: parallelsPerPlatform was not defined and has been set to 1 (Default)
+2025-01-27 21:43:32 - [32minfo[39m: Using app: ./Swagger.apk
+2025-01-27 21:43:32 - [32minfo[39m: Uploading app ./Swagger.apk  to browserstack
+2025-01-27 21:43:32 - [32minfo[39m: App already uploaded with md5 Hash Id: bs://77c65f9692af938872e2a4560bd592afd4d44cdc
+2025-01-27 21:43:35 - [32minfo[39m: Configuring to run tests on BrowserStack
+2025-01-27 21:43:52 - [32minfo[39m: Reading configs from C:\Users\HP\Downloads\motormouth-automated-testing\android\browserstack.yml
+2025-01-27 21:43:52 - [32minfo[39m: parallelsPerPlatform was not defined and has been set to 1 (Default)
+2025-01-27 21:43:53 - [32minfo[39m: Using app: ./Swagger.apk
+2025-01-27 21:43:53 - [32minfo[39m: Uploading app ./Swagger.apk  to browserstack
+2025-01-27 21:43:53 - [32minfo[39m: App already uploaded with md5 Hash Id: bs://77c65f9692af938872e2a4560bd592afd4d44cdc
+2025-01-27 21:43:58 - [32minfo[39m: Configuring to run tests on BrowserStack
+2025-01-27 21:46:04 - [32minfo[39m: Reading configs from C:\Users\HP\Downloads\motormouth-automated-testing\android\browserstack.yml
+2025-01-27 21:46:04 - [32minfo[39m: parallelsPerPlatform was not defined and has been set to 1 (Default)
+2025-01-27 21:46:09 - [32minfo[39m: Using app: ./Swagger.apk
+2025-01-27 21:46:09 - [32minfo[39m: Uploading app ./Swagger.apk  to browserstack
+2025-01-27 21:46:09 - [32minfo[39m: App already uploaded with md5 Hash Id: bs://77c65f9692af938872e2a4560bd592afd4d44cdc
+2025-01-27 21:46:14 - [32minfo[39m: Configuring to run tests on BrowserStack
+2025-01-27 22:01:08 - [32minfo[39m: Reading configs from C:\Users\HP\Downloads\motormouth-automated-testing\android\browserstack.yml
+2025-01-27 22:01:08 - [32minfo[39m: parallelsPerPlatform was not defined and has been set to 1 (Default)
+2025-01-27 22:01:10 - [32minfo[39m: Using app: ./Swagger.apk
+2025-01-27 22:01:10 - [32minfo[39m: Uploading app ./Swagger.apk  to browserstack
+2025-01-27 22:01:10 - [32minfo[39m: App already uploaded with md5 Hash Id: bs://77c65f9692af938872e2a4560bd592afd4d44cdc
+2025-01-27 22:01:13 - [32minfo[39m: Configuring to run tests on BrowserStack
+2025-01-27 22:04:57 - [32minfo[39m: Reading configs from C:\Users\HP\Downloads\motormouth-automated-testing\android\browserstack.yml
+2025-01-27 22:04:57 - [32minfo[39m: parallelsPerPlatform was not defined and has been set to 1 (Default)
+2025-01-27 22:04:58 - [32minfo[39m: Using app: ./Swagger.apk
+2025-01-27 22:04:58 - [32minfo[39m: Uploading app ./Swagger.apk  to browserstack
+2025-01-27 22:04:58 - [32minfo[39m: App already uploaded with md5 Hash Id: bs://77c65f9692af938872e2a4560bd592afd4d44cdc
+2025-01-27 22:05:02 - [32minfo[39m: Configuring to run tests on BrowserStack
+2025-01-27 22:07:59 - [32minfo[39m: Reading configs from C:\Users\HP\Downloads\motormouth-automated-testing\android\browserstack.yml
+2025-01-27 22:07:59 - [32minfo[39m: parallelsPerPlatform was not defined and has been set to 1 (Default)
+2025-01-27 22:08:00 - [32minfo[39m: Using app: ./Swagger.apk
+2025-01-27 22:08:00 - [32minfo[39m: Uploading app ./Swagger.apk  to browserstack
+2025-01-27 22:08:00 - [32minfo[39m: App already uploaded with md5 Hash Id: bs://77c65f9692af938872e2a4560bd592afd4d44cdc
+2025-01-27 22:08:04 - [32minfo[39m: Configuring to run tests on BrowserStack
+2025-01-27 22:15:51 - [32minfo[39m: Reading configs from C:\Users\HP\Downloads\motormouth-automated-testing\android\browserstack.yml
+2025-01-27 22:15:51 - [32minfo[39m: parallelsPerPlatform was not defined and has been set to 1 (Default)
+2025-01-27 22:15:53 - [32minfo[39m: Using app: ./Swagger.apk
+2025-01-27 22:15:53 - [32minfo[39m: Uploading app ./Swagger.apk  to browserstack
+2025-01-27 22:15:53 - [32minfo[39m: App already uploaded with md5 Hash Id: bs://77c65f9692af938872e2a4560bd592afd4d44cdc
+2025-01-27 22:15:57 - [32minfo[39m: Configuring to run tests on BrowserStack
+2025-01-27 22:19:22 - [32minfo[39m: Reading configs from C:\Users\HP\Downloads\motormouth-automated-testing\android\browserstack.yml
+2025-01-27 22:19:22 - [32minfo[39m: parallelsPerPlatform was not defined and has been set to 1 (Default)
+2025-01-27 22:19:27 - [32minfo[39m: Local binary started successfully
+2025-01-27 22:19:28 - [32minfo[39m: Using app: ./Swagger.apk
+2025-01-27 22:19:28 - [32minfo[39m: Uploading app ./Swagger.apk  to browserstack
+2025-01-27 22:19:28 - [32minfo[39m: App already uploaded with md5 Hash Id: bs://77c65f9692af938872e2a4560bd592afd4d44cdc
+2025-01-27 22:19:31 - [32minfo[39m: Configuring to run tests on BrowserStack
+2025-01-27 22:19:36 - [32minfo[39m: Local binary stopped
+2025-01-27 22:22:06 - [32minfo[39m: Reading configs from C:\Users\HP\Downloads\motormouth-automated-testing\android\browserstack.yml
+2025-01-27 22:22:06 - [32minfo[39m: Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+2025-01-27 22:22:07 - [32minfo[39m: Using app: ./Swagger.apk
+2025-01-27 22:22:07 - [32minfo[39m: Uploading app ./Swagger.apk  to browserstack
+2025-01-27 22:22:17 - [32minfo[39m: App upload completed: {"app_url":"bs://15e5c8bc4f9c23526cd14f93daf85b1a5c2e758f"}
+2025-01-27 22:22:23 - [32minfo[39m: Configuring to run tests on BrowserStack
+2025-01-27 22:23:01 - [32minfo[39m: Visit https://observability.browserstack.com/builds/xh3fh0j6kefrw3rim3aqvrdrqe39o6x3bko2plra to view build report, insights, and many more debugging information all at one place!
+
+2025-01-27 22:23:02 - [32minfo[39m: View build on BrowserStack dashboard: https://app-automate.browserstack.com/dashboard/v2/builds/44d16fc9887bbcbc040baecb974e691b8cc054c4
+2025-01-27 22:25:47 - [32minfo[39m: Reading configs from C:\Users\HP\Downloads\motormouth-automated-testing\android\browserstack.yml
+2025-01-27 22:25:47 - [32minfo[39m: Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+2025-01-27 22:25:48 - [32minfo[39m: Using app: ./Swagger.apk
+2025-01-27 22:25:48 - [32minfo[39m: Uploading app ./Swagger.apk  to browserstack
+2025-01-27 22:25:48 - [32minfo[39m: App already uploaded with md5 Hash Id: bs://15e5c8bc4f9c23526cd14f93daf85b1a5c2e758f
+2025-01-27 22:25:53 - [32minfo[39m: Configuring to run tests on BrowserStack
+2025-01-27 22:25:56 - [32minfo[39m: Visit https://observability.browserstack.com/builds/accvtyjmbr4dfajjqaaddptyh2kqzlvrr530jg5u to view build report, insights, and many more debugging information all at one place!
+
+2025-01-27 22:28:26 - [32minfo[39m: Reading configs from C:\Users\HP\Downloads\motormouth-automated-testing\android\browserstack.yml
+2025-01-27 22:28:26 - [32minfo[39m: Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+2025-01-27 22:28:27 - [32minfo[39m: Using app: ./bs://bcb84b7771977bf1830b59fc9772a4909943ec57
+2025-01-27 22:28:31 - [32minfo[39m: Configuring to run tests on BrowserStack
+2025-01-27 22:28:34 - [32minfo[39m: Visit https://observability.browserstack.com/builds/hmf2rsruiya0oxcqzrqelp6sur4ghb8xkm3nwyup to view build report, insights, and many more debugging information all at one place!
+
+2025-01-27 22:28:50 - [32minfo[39m: Reading configs from C:\Users\HP\Downloads\motormouth-automated-testing\android\browserstack.yml
+2025-01-27 22:28:50 - [32minfo[39m: Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+2025-01-27 22:28:51 - [32minfo[39m: Using app: ./bcb84b7771977bf1830b59fc9772a4909943ec57
+2025-01-27 22:28:55 - [32minfo[39m: Configuring to run tests on BrowserStack
+2025-01-27 22:28:59 - [32minfo[39m: Visit https://observability.browserstack.com/builds/pkixmqmu85bbqyzoip9allbfgw4dt4n71b7kwyp0 to view build report, insights, and many more debugging information all at one place!
+
+2025-01-27 22:30:25 - [32minfo[39m: Reading configs from C:\Users\HP\Downloads\motormouth-automated-testing\android\browserstack.yml
+2025-01-27 22:30:25 - [32minfo[39m: Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+2025-01-27 22:30:26 - [32minfo[39m: Using app: ./Swagger.apk
+2025-01-27 22:30:26 - [32minfo[39m: Uploading app ./Swagger.apk  to browserstack
+2025-01-27 22:30:26 - [32minfo[39m: App already uploaded with md5 Hash Id: bs://15e5c8bc4f9c23526cd14f93daf85b1a5c2e758f
+2025-01-27 22:30:31 - [32minfo[39m: Configuring to run tests on BrowserStack
+2025-01-27 22:31:04 - [32minfo[39m: Visit https://observability.browserstack.com/builds/c0zzltmhpxppklb0puhdkllwc61b7dy14ctkrdg7 to view build report, insights, and many more debugging information all at one place!
+
+2025-01-27 22:31:08 - [32minfo[39m: View build on BrowserStack dashboard: https://app-automate.browserstack.com/dashboard/v2/builds/ca73de7136d890320810df607196d2f861aed4c3
+2025-01-27 22:31:20 - [32minfo[39m: Reading configs from C:\Users\HP\Downloads\motormouth-automated-testing\android\browserstack.yml
+2025-01-27 22:31:20 - [32minfo[39m: Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+2025-01-27 22:31:21 - [32minfo[39m: Using app: ./Swagger.apk
+2025-01-27 22:31:21 - [32minfo[39m: Uploading app ./Swagger.apk  to browserstack
+2025-01-27 22:31:21 - [32minfo[39m: App already uploaded with md5 Hash Id: bs://15e5c8bc4f9c23526cd14f93daf85b1a5c2e758f
+2025-01-27 22:31:26 - [32minfo[39m: Configuring to run tests on BrowserStack
+2025-01-27 22:32:07 - [32minfo[39m: Visit https://observability.browserstack.com/builds/ki7lj0vmprbfykgv0nrnr9cntwzcpstr8z9e2nxb to view build report, insights, and many more debugging information all at one place!
+
+2025-01-27 22:32:07 - [32minfo[39m: View build on BrowserStack dashboard: https://app-automate.browserstack.com/dashboard/v2/builds/cf710b2db607757c20e38811dd2108e1806a07a6
+2025-01-27 22:48:24 - [32minfo[39m: Reading configs from C:\Users\HP\Downloads\motormouth-automated-testing\android\browserstack.yml
+2025-01-27 22:48:24 - [32minfo[39m: Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+2025-01-27 22:48:25 - [32minfo[39m: Using app: ./Swagger.apk
+2025-01-27 22:48:25 - [32minfo[39m: Uploading app ./Swagger.apk  to browserstack
+2025-01-27 22:48:25 - [32minfo[39m: App already uploaded with md5 Hash Id: bs://15e5c8bc4f9c23526cd14f93daf85b1a5c2e758f
+2025-01-27 22:48:30 - [32minfo[39m: Configuring to run tests on BrowserStack
+2025-01-27 22:48:33 - [32minfo[39m: Visit https://observability.browserstack.com/builds/cnkqzwqyklckqsllwurm5epsb3vkoraqcciu4zhx to view build report, insights, and many more debugging information all at one place!
+
+2025-01-27 22:51:57 - [32minfo[39m: Reading configs from C:\Users\HP\Downloads\motormouth-automated-testing\android\browserstack.yml
+2025-01-27 22:51:57 - [32minfo[39m: Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+2025-01-27 22:51:58 - [32minfo[39m: Using app: ./Swagger.apk
+2025-01-27 22:51:58 - [32minfo[39m: Uploading app ./Swagger.apk  to browserstack
+2025-01-27 22:51:58 - [32minfo[39m: App already uploaded with md5 Hash Id: bs://15e5c8bc4f9c23526cd14f93daf85b1a5c2e758f
+2025-01-27 22:52:03 - [32minfo[39m: Configuring to run tests on BrowserStack
+2025-01-27 22:52:06 - [32minfo[39m: Visit https://observability.browserstack.com/builds/qqt3xuqofftjd1b7a047nontua8k2uagcjd6cnwd to view build report, insights, and many more debugging information all at one place!
+
+2025-01-27 22:54:54 - [32minfo[39m: Reading configs from C:\Users\HP\Downloads\motormouth-automated-testing\android\browserstack.yml
+2025-01-27 22:54:54 - [32minfo[39m: Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+2025-01-27 22:54:55 - [32minfo[39m: Using app: ./Swagger.apk
+2025-01-27 22:54:55 - [32minfo[39m: Uploading app ./Swagger.apk  to browserstack
+2025-01-27 22:54:55 - [32minfo[39m: App already uploaded with md5 Hash Id: bs://15e5c8bc4f9c23526cd14f93daf85b1a5c2e758f
+2025-01-27 22:55:00 - [32minfo[39m: Configuring to run tests on BrowserStack
+2025-01-27 22:55:03 - [32minfo[39m: Visit https://observability.browserstack.com/builds/pq70hdwo4ncm7yijulo1c6pv9u43rvy7whnoph7e to view build report, insights, and many more debugging information all at one place!
+
+2025-01-27 23:00:58 - [32minfo[39m: Reading configs from C:\Users\HP\Downloads\motormouth-automated-testing\android\browserstack.yml
+2025-01-27 23:00:58 - [32minfo[39m: Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+2025-01-27 23:00:59 - [32minfo[39m: Using app: ./Swagger.apk
+2025-01-27 23:00:59 - [32minfo[39m: Uploading app ./Swagger.apk  to browserstack
+2025-01-27 23:00:59 - [32minfo[39m: App already uploaded with md5 Hash Id: bs://15e5c8bc4f9c23526cd14f93daf85b1a5c2e758f
+2025-01-27 23:01:03 - [32minfo[39m: Configuring to run tests on BrowserStack
+2025-01-27 23:01:08 - [32minfo[39m: Visit https://observability.browserstack.com/builds/qlqmnfumtbqtzcqh2l3pyg03kxjipquk4lvqnnnz to view build report, insights, and many more debugging information all at one place!
+
+2025-01-27 23:02:04 - [32minfo[39m: Reading configs from C:\Users\HP\Downloads\motormouth-automated-testing\android\browserstack.yml
+2025-01-27 23:02:04 - [32minfo[39m: Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+2025-01-27 23:02:05 - [32minfo[39m: Using app: ./Swagger.apk
+2025-01-27 23:02:05 - [32minfo[39m: Uploading app ./Swagger.apk  to browserstack
+2025-01-27 23:02:05 - [32minfo[39m: App already uploaded with md5 Hash Id: bs://15e5c8bc4f9c23526cd14f93daf85b1a5c2e758f
+2025-01-27 23:02:10 - [32minfo[39m: Configuring to run tests on BrowserStack
+2025-01-27 23:02:43 - [32minfo[39m: Visit https://observability.browserstack.com/builds/3tvsltdbgtwisl6nizkq5fygng3lycmylq6cd42d to view build report, insights, and many more debugging information all at one place!
+
+2025-01-27 23:02:43 - [32minfo[39m: View build on BrowserStack dashboard: https://app-automate.browserstack.com/dashboard/v2/builds/8b2fc45b25a8e97d924592c53014d86e04588229
+2025-01-27 23:05:41 - [32minfo[39m: Reading configs from C:\Users\HP\Downloads\motormouth-automated-testing\android\browserstack.yml
+2025-01-27 23:05:41 - [32minfo[39m: Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+2025-01-27 23:05:42 - [32minfo[39m: Using app: bs://9add77b7e5784b44528b28ea20bb9853b562f2cf
+2025-01-27 23:05:46 - [32minfo[39m: Configuring to run tests on BrowserStack
+2025-01-27 23:06:35 - [32minfo[39m: Visit https://observability.browserstack.com/builds/joyqrj5wkme0jqtefhv87cgxpqpnc8vg4ph2yjf8 to view build report, insights, and many more debugging information all at one place!
+
+2025-01-27 23:06:36 - [32minfo[39m: View build on BrowserStack dashboard: https://app-automate.browserstack.com/dashboard/v2/builds/8f2222e1cd40f56ca30ec2556fe2f6308e3d5dcd
+2025-01-27 23:07:25 - [32minfo[39m: Reading configs from C:\Users\HP\Downloads\motormouth-automated-testing\android\browserstack.yml
+2025-01-27 23:07:25 - [32minfo[39m: Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+2025-01-27 23:07:27 - [32minfo[39m: Using app: bs://9add77b7e5784b44528b28ea20bb9853b562f2cf
+2025-01-27 23:07:32 - [32minfo[39m: Configuring to run tests on BrowserStack
+2025-01-27 23:08:23 - [32minfo[39m: Visit https://observability.browserstack.com/builds/wwibrnakjwxwokm67ajrsbldrfqbf5oworwjt1zf to view build report, insights, and many more debugging information all at one place!
+
+2025-01-27 23:08:23 - [32minfo[39m: View build on BrowserStack dashboard: https://app-automate.browserstack.com/dashboard/v2/builds/17dc38d838e8a99320041b9ec183b36e404d075d
+2025-01-27 23:34:09 - [32minfo[39m: Reading configs from C:\Users\HP\Downloads\motormouth-automated-testing\android\browserstack.yml
+2025-01-27 23:34:09 - [32minfo[39m: Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+2025-01-27 23:34:10 - [32minfo[39m: Using app: bs://9add77b7e5784b44528b28ea20bb9853b562f2cf
+2025-01-27 23:34:16 - [32minfo[39m: Configuring to run tests on BrowserStack
+2025-01-27 23:34:54 - [32minfo[39m: Visit https://observability.browserstack.com/builds/pwk1ik5glue3vvm5jq4i6dwfvk1xuax5jpoqd4td to view build report, insights, and many more debugging information all at one place!
+
+2025-01-27 23:34:55 - [32minfo[39m: View build on BrowserStack dashboard: https://app-automate.browserstack.com/dashboard/v2/builds/22163c65ae7dff0d7a02ca894e753b915c937090
+2025-01-27 23:37:20 - [32minfo[39m: Reading configs from C:\Users\HP\Downloads\motormouth-automated-testing\android\browserstack.yml
+2025-01-27 23:37:20 - [32minfo[39m: Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+2025-01-27 23:37:21 - [32minfo[39m: Using app: bs://9add77b7e5784b44528b28ea20bb9853b562f2cf
+2025-01-27 23:37:26 - [32minfo[39m: Configuring to run tests on BrowserStack
+2025-01-27 23:38:09 - [32minfo[39m: Visit https://observability.browserstack.com/builds/wgshwzfo0prntisricha0bmvcjei8qvp5higlrii to view build report, insights, and many more debugging information all at one place!
+
+2025-01-27 23:38:10 - [32minfo[39m: View build on BrowserStack dashboard: https://app-automate.browserstack.com/dashboard/v2/builds/bf44668a2e0191858fdb16587d43bad858d117a2
+2025-01-27 23:42:40 - [32minfo[39m: Reading configs from C:\Users\HP\Downloads\motormouth-automated-testing\android\browserstack.yml
+2025-01-27 23:42:40 - [32minfo[39m: Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+2025-01-27 23:42:41 - [32minfo[39m: Using app: bs://9add77b7e5784b44528b28ea20bb9853b562f2cf
+2025-01-27 23:42:46 - [32minfo[39m: Configuring to run tests on BrowserStack
+2025-01-27 23:43:25 - [32minfo[39m: Visit https://observability.browserstack.com/builds/egetb9wm1a5aulyan0jbxhva0dux8nojwcp9vw5s to view build report, insights, and many more debugging information all at one place!
+
+2025-01-27 23:43:26 - [32minfo[39m: View build on BrowserStack dashboard: https://app-automate.browserstack.com/dashboard/v2/builds/892a5c56e516e506560fa4dd92b16fbf47224266
+2025-01-27 23:45:20 - [32minfo[39m: Reading configs from C:\Users\HP\Downloads\motormouth-automated-testing\android\browserstack.yml
+2025-01-27 23:45:20 - [32minfo[39m: Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+2025-01-27 23:45:22 - [32minfo[39m: Using app: bs://9add77b7e5784b44528b28ea20bb9853b562f2cf
+2025-01-27 23:45:27 - [32minfo[39m: Configuring to run tests on BrowserStack
+2025-01-27 23:46:06 - [32minfo[39m: Visit https://observability.browserstack.com/builds/jncguh7an9sm0envsghjcuqgyjnhqdkiiqsgodeg to view build report, insights, and many more debugging information all at one place!
+
+2025-01-27 23:46:08 - [32minfo[39m: View build on BrowserStack dashboard: https://app-automate.browserstack.com/dashboard/v2/builds/6b8ea244c3ca9108d24a5fae81440b95d16f1544
+2025-01-27 23:49:28 - [32minfo[39m: Reading configs from C:\Users\HP\Downloads\motormouth-automated-testing\android\browserstack.yml
+2025-01-27 23:49:28 - [32minfo[39m: Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+2025-01-27 23:49:30 - [32minfo[39m: Using app: bs://9add77b7e5784b44528b28ea20bb9853b562f2cf
+2025-01-27 23:49:35 - [32minfo[39m: Configuring to run tests on BrowserStack
+2025-01-27 23:50:21 - [32minfo[39m: Visit https://observability.browserstack.com/builds/brec9s751vf3f9rloumfdmyzg68ikjeyvqvyizcv to view build report, insights, and many more debugging information all at one place!
+
+2025-01-27 23:50:22 - [32minfo[39m: View build on BrowserStack dashboard: https://app-automate.browserstack.com/dashboard/v2/builds/a6cb1dbe952743644ac635e737e7dbb8a869c8d4
+2025-01-27 23:55:25 - [32minfo[39m: Reading configs from C:\Users\HP\Downloads\motormouth-automated-testing\android\browserstack.yml
+2025-01-27 23:55:25 - [32minfo[39m: Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+2025-01-27 23:55:26 - [32minfo[39m: Using app: bs://9add77b7e5784b44528b28ea20bb9853b562f2cf
+2025-01-27 23:55:31 - [32minfo[39m: Configuring to run tests on BrowserStack
+2025-01-27 23:56:10 - [32minfo[39m: Visit https://observability.browserstack.com/builds/65wvzdfgxhkt9o0p4ykmomahiotoqxkmhgel2skp to view build report, insights, and many more debugging information all at one place!
+
+2025-01-27 23:56:11 - [32minfo[39m: View build on BrowserStack dashboard: https://app-automate.browserstack.com/dashboard/v2/builds/c7137ced7189bdf370c648b6dc69d588e3e5987d
+2025-01-27 23:58:57 - [32minfo[39m: Reading configs from C:\Users\HP\Downloads\motormouth-automated-testing\android\browserstack.yml
+2025-01-27 23:58:57 - [32minfo[39m: Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+2025-01-27 23:58:59 - [32minfo[39m: Using app: bs://9add77b7e5784b44528b28ea20bb9853b562f2cf
+2025-01-27 23:59:04 - [32minfo[39m: Configuring to run tests on BrowserStack
+2025-01-28 00:03:53 - [32minfo[39m: Visit https://observability.browserstack.com/builds/0o7jd0oosln1sc7esnkgszkwignzicmiis58l8vl to view build report, insights, and many more debugging information all at one place!
+
+2025-01-28 00:03:55 - [32minfo[39m: View build on BrowserStack dashboard: https://app-automate.browserstack.com/dashboard/v2/builds/c11eb4b436b15fd50fa1953f2aeab70262d7c6c9
+2025-01-28 02:05:40 - [32minfo[39m: Reading configs from C:\Users\HP\Downloads\Mobile-automated-testing\android\browserstack.yml
+2025-01-28 02:05:40 - [32minfo[39m: Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+2025-01-28 02:05:41 - [32minfo[39m: Using app: bs://9add77b7e5784b44528b28ea20bb9853b562f2cf
+2025-01-28 02:05:46 - [32minfo[39m: Configuring to run tests on BrowserStack
+2025-01-28 02:22:26 - [32minfo[39m: Visit https://observability.browserstack.com/builds/mjxrgdsvg7cypsnc1pr31prepabde2hglhenl2fv to view build report, insights, and many more debugging information all at one place!
+
+2025-01-28 02:22:27 - [32minfo[39m: View build on BrowserStack dashboard: https://app-automate.browserstack.com/dashboard/v2/builds/f7160da906f8ce3dd1aa08b7f65a161e0e6561d2
+2025-01-28 18:57:52 - [32minfo[39m: Reading configs from C:\Users\HP\Downloads\Mobile-automated-testing\android\browserstack.yml
+2025-01-28 18:57:53 - [32minfo[39m: Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+2025-01-28 18:57:54 - [32minfo[39m: Using app: bs://bcb84b7771977bf1830b59fc9772a4909943ec57
+2025-01-28 18:57:59 - [32minfo[39m: Configuring to run tests on BrowserStack
+2025-01-28 18:58:37 - [32minfo[39m: Visit https://observability.browserstack.com/builds/w3fjtwn7wgpac0csadkyfeson1hyjs28djzo1uvq to view build report, insights, and many more debugging information all at one place!
+
+2025-01-28 18:58:38 - [32minfo[39m: View build on BrowserStack dashboard: https://app-automate.browserstack.com/dashboard/v2/builds/80188b75d6763fcc87a2db514669c2a52cf8d006
+2025-01-28 19:09:55 - [32minfo[39m: Reading configs from C:\Users\HP\Downloads\Mobile-automated-testing\android\browserstack.yml
+2025-01-28 19:09:55 - [32minfo[39m: Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+2025-01-28 19:09:57 - [32minfo[39m: Using app: bs://bcb84b7771977bf1830b59fc9772a4909943ec57
+2025-01-28 19:10:02 - [32minfo[39m: Configuring to run tests on BrowserStack
+2025-01-28 19:10:51 - [32minfo[39m: Visit https://observability.browserstack.com/builds/rqa3rdr18wtxztft1twf6vfqcag0aveyfll1odrr to view build report, insights, and many more debugging information all at one place!
+
+2025-01-28 19:10:52 - [32minfo[39m: View build on BrowserStack dashboard: https://app-automate.browserstack.com/dashboard/v2/builds/1f619cfd5e3ecd6b64d3ca469c3f7761706dea92
+2025-01-28 21:54:05 - [32minfo[39m: Reading configs from C:\Users\HP\Downloads\Mobile-automated-testing\android\browserstack.yml
+2025-01-28 21:54:05 - [32minfo[39m: Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+2025-01-28 21:54:06 - [32minfo[39m: Using app: bs://bcb84b7771977bf1830b59fc9772a4909943ec57
+2025-01-28 21:54:11 - [32minfo[39m: Configuring to run tests on BrowserStack
+2025-01-28 22:09:15 - [32minfo[39m: Visit https://observability.browserstack.com/builds/qzrlxjomgycb82a06hnnoiekw74v3bneao1e3qq3 to view build report, insights, and many more debugging information all at one place!
+
+2025-01-28 22:09:37 - [32minfo[39m: Reading configs from C:\Users\HP\Downloads\Mobile-automated-testing\android\browserstack.yml
+2025-01-28 22:09:37 - [32minfo[39m: Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+2025-01-28 22:09:38 - [32minfo[39m: Using app: bs://bcb84b7771977bf1830b59fc9772a4909943ec57
+2025-01-28 22:09:44 - [32minfo[39m: Configuring to run tests on BrowserStack
+2025-01-28 22:10:26 - [32minfo[39m: Visit https://observability.browserstack.com/builds/8bvwbsaxvtusne309mnnjex9xrscyh6ktgifburj to view build report, insights, and many more debugging information all at one place!
+
+2025-01-28 22:10:27 - [32minfo[39m: View build on BrowserStack dashboard: https://app-automate.browserstack.com/dashboard/v2/builds/e8f660bd36db9ab887e5d27b1821e3f222f3cb65
