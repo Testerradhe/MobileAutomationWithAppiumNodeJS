@@ -1,0 +1,191 @@
+[
+  {
+    "description": "",
+    "elements": [
+      {
+        "description": "",
+        "id": "login-test;create-automated-test-for-mobile-application-login",
+        "keyword": "Scenario",
+        "line": 3,
+        "name": "Create automated test for mobile application login",
+        "steps": [
+          {
+            "keyword": "Before",
+            "hidden": true,
+            "result": {
+              "status": "failed",
+              "duration": 1000000,
+              "error_message": "TypeError: Target browser must be a string, but is <undefined>; did you forget to call forBrowser()?\n    at Builder.build (C:\\Users\\HP\\Downloads\\Mobile-automated-testing\\android\\node_modules\\selenium-webdriver\\index.js:630:13)\n    at createBrowserStackSession (C:\\Users\\HP\\Downloads\\Mobile-automated-testing\\android\\features\\support\\hooks.js:7:24)\n    at World.<anonymous> (C:\\Users\\HP\\Downloads\\Mobile-automated-testing\\android\\features\\support\\hooks.js:12:18)"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 4,
+            "name": "User launch and login to android application",
+            "match": {
+              "location": "features\\step_definitions\\loginPageSteps.js:13"
+            },
+            "result": {
+              "status": "skipped",
+              "duration": 0
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 5,
+            "name": "Verify user is logged in successfully",
+            "match": {
+              "location": "features\\step_definitions\\loginPageSteps.js:31"
+            },
+            "result": {
+              "status": "skipped",
+              "duration": 0
+            }
+          },
+          {
+            "keyword": "After",
+            "hidden": true,
+            "result": {
+              "status": "failed",
+              "duration": 0,
+              "error_message": "TypeError: Cannot read properties of undefined (reading 'quit')\n    at World.<anonymous> (C:\\Users\\HP\\Downloads\\Mobile-automated-testing\\android\\features\\support\\hooks.js:17:15)"
+            }
+          }
+        ],
+        "tags": [],
+        "type": "scenario"
+      }
+    ],
+    "id": "login-test",
+    "line": 1,
+    "keyword": "Feature",
+    "name": "Login test",
+    "tags": [],
+    "uri": "features\\login.feature"
+  },
+  {
+    "description": "",
+    "elements": [
+      {
+        "description": "",
+        "id": "add-to-cart-order-test;create-automated-test-for-order-add-to-cart",
+        "keyword": "Scenario",
+        "line": 4,
+        "name": "Create automated test for order add to cart",
+        "steps": [
+          {
+            "keyword": "Before",
+            "hidden": true,
+            "result": {
+              "status": "failed",
+              "duration": 0,
+              "error_message": "TypeError: Target browser must be a string, but is <undefined>; did you forget to call forBrowser()?\n    at Builder.build (C:\\Users\\HP\\Downloads\\Mobile-automated-testing\\android\\node_modules\\selenium-webdriver\\index.js:630:13)\n    at createBrowserStackSession (C:\\Users\\HP\\Downloads\\Mobile-automated-testing\\android\\features\\support\\hooks.js:7:24)\n    at World.<anonymous> (C:\\Users\\HP\\Downloads\\Mobile-automated-testing\\android\\features\\support\\hooks.js:12:18)"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 5,
+            "name": "User launch and login to android application",
+            "match": {
+              "location": "features\\step_definitions\\loginPageSteps.js:13"
+            },
+            "result": {
+              "status": "skipped",
+              "duration": 0
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 6,
+            "name": "User click on Add to Cart button",
+            "match": {
+              "location": "features\\step_definitions\\productPagesteps.js:11"
+            },
+            "result": {
+              "status": "skipped",
+              "duration": 0
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 7,
+            "name": "User click on Open Cart Icon",
+            "match": {
+              "location": "features\\step_definitions\\productPagesteps.js:16"
+            },
+            "result": {
+              "status": "skipped",
+              "duration": 0
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 8,
+            "name": "User click on checkout button and add details",
+            "match": {
+              "location": "features\\step_definitions\\productPagesteps.js:21"
+            },
+            "result": {
+              "status": "skipped",
+              "duration": 0
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 9,
+            "name": "User click on continue button",
+            "match": {
+              "location": "features\\step_definitions\\productPagesteps.js:31"
+            },
+            "result": {
+              "status": "skipped",
+              "duration": 0
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 10,
+            "name": "Verify user is able to add item successfully",
+            "match": {
+              "location": "features\\step_definitions\\productPagesteps.js:42"
+            },
+            "result": {
+              "status": "skipped",
+              "duration": 0
+            }
+          },
+          {
+            "keyword": "After",
+            "hidden": true,
+            "result": {
+              "status": "failed",
+              "duration": 0,
+              "error_message": "TypeError: Cannot read properties of undefined (reading 'quit')\n    at World.<anonymous> (C:\\Users\\HP\\Downloads\\Mobile-automated-testing\\android\\features\\support\\hooks.js:17:15)"
+            }
+          }
+        ],
+        "tags": [
+          {
+            "name": "@add_to_cart",
+            "line": 3
+          }
+        ],
+        "type": "scenario"
+      }
+    ],
+    "id": "add-to-cart-order-test",
+    "line": 1,
+    "keyword": "Feature",
+    "name": "Add to cart order Test",
+    "tags": [],
+    "uri": "features\\order.feature"
+  }
+]

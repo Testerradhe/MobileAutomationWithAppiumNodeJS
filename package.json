@@ -1,0 +1,24 @@
+{
+  "name": "demo",
+  "version": "0.1.0",
+  "description": "Automation of android application",
+  "type": "commonjs",
+  "scripts": {
+    "login-test": "browserstack-node-sdk cucumber-js features/login.feature",
+    "order-test": "browserstack-node-sdk cucumber-js features/order.feature",
+    "feature1": "browserstack-node-sdk cucumber-js features/*.feature --tags=@login",
+    "feature": "browserstack-node-sdk cucumber-js ",
+    "test": "npx cucumber-js --format json:reports/cucumber_report.json && node generateReport.js && node sendEmail.js"
+  },
+  "dependencies": {
+    "@cucumber/cucumber": "^7.3.2",
+    "appium": "^2.15.0",
+    "browserstack-local": "^1.0.0",
+    "browserstack-node-sdk": "^1.31.2",
+    "chai": "^4.3.8",
+    "cucumber-html-reporter": "^7.2.0",
+    "nodemailer": "^6.10.0",
+    "selenium-webdriver": "4.1.2",
+    "superagent": "^8.1.2"
+  }
+}

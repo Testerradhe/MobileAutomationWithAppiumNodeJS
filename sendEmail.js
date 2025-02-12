@@ -1,0 +1,35 @@
+const nodemailer = require('nodemailer');
+
+async function sendReportEmail() {
+    let transporter = nodemailer.createTransport({
+        service: 'gmail',
+        auth: {
+            user: 'mukesh.agrisync@gmail.com',  // Replace with your email
+            pass: 'game rmhj ywln gztl'  // Use an app password if 2FA is enabled
+        }
+    });
+
+    let mailOptions = {
+        from: 'mukesh.agrisync@gmail.com',
+        to: 'testermukesh@yopmail.com', // Replace with recipient email
+        subject: 'Test Automation Report',
+        text: 'Hello,\n\nPlease find the attached test execution report.\n\nRegards,\nQA Team',
+        attachments: [
+            {
+                filename: 'cucumber_report.html',
+                path: './reports/cucumber_report.html'
+            }
+        ]
+    };
+
+    transporter.sendMail(mailOptions, function (error, info) {
+        if (error) {
+            console.log('Error sending email:', error);
+        } else {
+            console.log('Email sent: ' + info.response);
+        }
+    });
+}
+
+// Call function to send email
+sendReportEmail();
