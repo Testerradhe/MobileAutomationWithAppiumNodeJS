@@ -27,7 +27,7 @@ jobs:
 
       # Step 4: Run the test script
       - name: Run Tests
-        run: npm run parallel-tests
+        run: npm run login-test
 
       # Step 5: Upload reports (if needed)
       - name: Upload Cucumber Report
