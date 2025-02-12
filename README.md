@@ -42,7 +42,8 @@ User can view all new dependencies under `package-lock.json` file for newly adde
 
 
 ### Run your first test :
-
+Before run the test add credentials in browserstack.yml
+and download the application and upload in the browserstack and generated link add in the browserstack.yml file
 
 1. Open `Android` or in `ios` folder in terminal by using command `cd android` for android run and `cd ios ` for ios app run
 
