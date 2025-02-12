@@ -4,21 +4,30 @@
   "description": "Automation of android application",
   "type": "commonjs",
   "scripts": {
-    "login-test": "browserstack-node-sdk cucumber-js features/login.feature",
+    "login-test": "browserstack-node-sdk cucumber-js features/login.feature --retry 1",
     "order-test": "browserstack-node-sdk cucumber-js features/order.feature",
-    "feature1": "browserstack-node-sdk cucumber-js features/*.feature --tags=@login",
     "feature": "browserstack-node-sdk cucumber-js ",
-    "test": "npx cucumber-js --format json:reports/cucumber_report.json && node generateReport.js && node sendEmail.js"
+    "test": "npx cucumber-js --format json:reports/cucumber_report.json && node generateReport.js && node sendEmail.js",
+    "parallel-tests": "npm-run-all --parallel login-test order-test"
   },
   "dependencies": {
     "@cucumber/cucumber": "^7.3.2",
-    "appium": "^2.15.0",
+    "appium": "^1.22.3",
     "browserstack-local": "^1.0.0",
-    "browserstack-node-sdk": "^1.31.2",
+    "browserstack-node-sdk": "^1.34.38",
     "chai": "^4.3.8",
-    "cucumber-html-reporter": "^7.2.0",
+    "cucumber-html-reporter": "^6.0.0",
     "nodemailer": "^6.10.0",
     "selenium-webdriver": "4.1.2",
-    "superagent": "^8.1.2"
+    "superagent": "^8.1.2",
+    "@cucumber/gherkin": "27.0.0",
+    "@cucumber/gherkin-utils": "8.0.5",
+    "assert": "^2.0.0",
+    "cross-env": "^5.2.0",
+    "faker": "^5.5.3",
+    "mocha": "^10.2.0",
+    "npm-run-all": "4.1.5",
+    "random": "^4.1.0",
+    "url": "^0.11.4"
   }
 }

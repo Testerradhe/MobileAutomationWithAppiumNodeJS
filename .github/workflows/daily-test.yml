@@ -1,0 +1,51 @@
+name: Daily Test Execution
+
+# Schedule the workflow to run daily at a specific time
+on:
+  schedule:
+    # Run every day at 7:00 AM UTC (Adjust time as needed)
+    - cron: '0 7 * * *'
+
+jobs:
+  run-tests:
+    runs-on: ubuntu-latest
+
+    steps:
+      # Step 1: Checkout the repository code
+      - name: Checkout Repository
+        uses: actions/checkout@v3
+
+      # Step 2: Set up Node.js environment
+      - name: Set up Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: '22'
+
+      # Step 3: Install dependencies
+      - name: Install Dependencies
+        run: npm install
+
+      # Step 4: Run the test script
+      - name: Run Tests
+        run: npm run parallel-tests
+
+      # Step 5: Upload reports (if needed)
+      - name: Upload Cucumber Report
+        uses: actions/upload-artifact@v3
+        with:
+          name: cucumber-report
+          path: reports/cucumber_report.json
+
+      # Step 6: Send the test results via email
+      - name: Send Email with Test Results
+        uses: dawidd6/action-send-mail@v3
+        with:
+          server_address: smtp.gmail.com
+          server_port: 587
+          username: ${{ secrets.EMAIL_USERNAME }}
+          password: ${{ secrets.EMAIL_PASSWORD }}
+          subject: "Daily Test Execution Report"
+          body: "Attached is the daily test execution report."
+          to: mukesh.agrisync@gmail.com
+          from: testermukesh@yopmail.com
+          attachments: reports/cucumber_report.json
