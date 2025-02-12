@@ -23,8 +23,9 @@ package-lock.json
 yarn.lock
 
 #Ignore Bat files
-run-test.bat
+run-tests.bat
 
 #generate reports file
 reports/
 generateReport.js
+sendEmail.js
