@@ -1,1 +1,12 @@
+# Ignore node_modules folder
 node_modules/
+
+# Ignore logs
+log/
+local.log
+
+# Ignore specific script files
+sendEmail.js/
+
+# Ignore lock files (if you don’t want to share them)
+package-lock.json
