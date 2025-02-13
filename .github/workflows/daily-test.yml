@@ -29,6 +29,9 @@ jobs:
       # Step 4: Run the test script
       - name: Run Tests
         run: npm run parallel-tests
+        env:
+          BROWSERSTACK_USERNAME: ${{ secrets.BROWSERSTACK_USERNAME }}
+          BROWSERSTACK_ACCESS_KEY: ${{ secrets.BROWSERSTACK_ACCESS_KEY }}
 
       # Step 5: Upload reports (if needed)
       - name: Upload Cucumber Report
