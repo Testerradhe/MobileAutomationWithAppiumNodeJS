@@ -1,6 +1,6 @@
 Feature: Add to cart order Test
 
-    @login
+    @regression
     Scenario: Create automated test for order add to cart
         When User launch and login to android application
         And User click on Add to Cart button

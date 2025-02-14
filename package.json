@@ -8,7 +8,9 @@
     "order-test": "browserstack-node-sdk cucumber-js features/order.feature",
     "feature": "browserstack-node-sdk cucumber-js ",
     "test": "npx cucumber-js --format json:reports/cucumber_report.json && node generateReport.js && node sendEmail.js",
-    "parallel-tests": "npm-run-all --parallel login-test order-test"
+    "parallel-tests": "npm-run-all --parallel login-test order-test",
+    "post-results": "node sendResultsToTeams.js",
+    "regression-test": "browserstack-node-sdk cucumber-js --tags @regression"
   },
   "dependencies": {
     "@cucumber/cucumber": "^7.3.2",
